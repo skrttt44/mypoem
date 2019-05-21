@@ -14,6 +14,11 @@ My poem is so brilliant
   Because I have a gift
 Of being awfully resilient
   To every hit and whift 
+  
+  Writing this poem was a lot of fun for me. I haven't written any poems, I think, in ages! 
+  I wrote this poem to show the fun and creative side of me and to practice using Git and
+  GitHub. I hope this humble project not only demonstrates my artistry but also proves
+  I can easily learn, master and utilize new technologies and tools.
 
 - N. Kubai, 
 5/21/2019
